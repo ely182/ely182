@@ -24,5 +24,4 @@
  <a href = "mailto:ely.18gabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <div>
-https://github.com/ely182/ely182/blob/output/github-contribution-grid-snake.svg
-</div>
+![Snake animation](https://github.com/ely182/ely182/blob/output/github-contribution-grid-snake.svg)
