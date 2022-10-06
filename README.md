@@ -1,5 +1,7 @@
 # ELY GABRIEL
- 👋 OI
+
+ <img align="center" alt="avatar" width="100" src="https://im3.ezgif.com/tmp/ezgif-3-35258ce4ea.png"/>
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="logo-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
