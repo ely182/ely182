@@ -1,6 +1,6 @@
 # ELY GABRIEL
 
- <img align="center" alt="avatar" width="100" src="https://im3.ezgif.com/tmp/ezgif-3-35258ce4ea.png"/>
+
 
 
 <div style="display: inline_block"><br>
